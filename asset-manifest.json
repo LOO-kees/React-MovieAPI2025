@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-MovieAPI2025/static/css/main.41bf7c24.css",
+    "main.js": "/React-MovieAPI2025/static/js/main.dd7b27d0.js",
+    "index.html": "/React-MovieAPI2025/index.html",
+    "main.41bf7c24.css.map": "/React-MovieAPI2025/static/css/main.41bf7c24.css.map",
+    "main.dd7b27d0.js.map": "/React-MovieAPI2025/static/js/main.dd7b27d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41bf7c24.css",
+    "static/js/main.dd7b27d0.js"
+  ]
+}
